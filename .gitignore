@@ -161,3 +161,4 @@ cython_debug/
 
 config.dev.json
 Docker_Run_Command.md
+.DS_Store
